@@ -1,0 +1,17 @@
+{
+  "id": "Interface_HDMI/TPD12S520DBT:TPD12S520DBT",
+  "name": "TPD12S520DBT",
+  "library": "Interface_HDMI",
+  "file": "Interface_HDMI.kicad_symdir/TPD12S520DBT.kicad_sym",
+  "description": "HDMI Receiver Port Protection and Interface Device, TSSOP-38",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tpd12s520.pdf",
+  "keywords": "hdmi",
+  "footprint": "Package_SO:TSSOP-38_4.4x9.7mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-hdmi@master/parts/TPD12S520DBT/",
+  "part_path": "parts/TPD12S520DBT",
+  "symbol_file": "parts/TPD12S520DBT/TPD12S520DBT.kicad_sym",
+  "source_library": "Interface_HDMI.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:59.163Z"
+}
